@@ -1,5 +1,17 @@
 {
+  "license": "MIT",
   "dependencies": {
+    "vue": "^2.6.11",
     "vuedraggable": "^2.23.2"
+  },
+  "scripts": {},
+  "name": "vue-draggable-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://kib9@github.com/kib9/vue-draggable-sample.git",
+  "author": "KentaroSato <7332808+kib9@users.noreply.github.com>",
+  "devDependencies": {
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
   }
 }
